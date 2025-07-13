@@ -1,0 +1,8 @@
+[package]
+name = "monitor_focus_switcher"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+x11 = "2.21.0"
+device_query = "1.1"
